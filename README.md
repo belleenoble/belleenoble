@@ -3,11 +3,11 @@
 **Computer Engineering @ San Jose State University**
 
 ## 🛠️ Tech Stack
-💻Languages: C++, Python, HTML/CSS, Java, Assembly, JavaScript
+💻Languages: C++, Python, HTML/CSS, Java, Assembly, JavaScript, Verilog
 
 🖱️Frameworks & Libraries: FastAPI, React, MediaPipe, OpenCV, Numpy
 
-🧰Tools & Technologies: Git & Github, VS Code, Vite, Uvicorn
+🧰Tools & Technologies: Git & Github, VS Code, Vite, Uvicorn, LTspice, Kicad, AutoCAD, Vivado
 
 ## 🚀 Current Projects I'm working on!
 ### 💸 Personal Finance Analyzer (Full-Stack)
