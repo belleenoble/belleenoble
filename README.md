@@ -2,6 +2,9 @@
 
 **Computer Engineering @ San Jose State University**
 
+## Engineering Portfolio :)
+https://bellenoble-portfolio.vercel.app/
+
 ## 🛠️ Tech Stack
 💻Languages: C++, Python, HTML/CSS, Java, Assembly, JavaScript, Verilog
 
